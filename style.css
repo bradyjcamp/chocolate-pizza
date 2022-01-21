@@ -1,0 +1,63 @@
+#headerImgs{
+  float: right;
+  margin-top: 70px;
+}
+
+#forkLogo{
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+}
+
+h1{
+  font-family:Dancing Script, cursive;
+}
+
+#header-text{
+  display: inline-block;
+  padding: 1px;
+  width: 400px;
+  text-align: left;
+}
+header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#bar{
+  /* width: fit-content; */
+  /* width: 1000px; */
+  height: 3px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#pageHeader{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+
+#printContainer{
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  margin-right: 230px;
+  margin-top: -65px;
+  margin-bottom: 20px;
+  color: rgb(189, 189, 189);
+}
+
+#cake{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  /* margin-left: 370px; */
+}
